@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import {Flex , Box , Text ,Button} from "@chakra-ui/react";
-import{baseurl , fetchApi} from . 
+// import{baseurl , fetchApi} from . 
 
 const Banner=({purpose , title1 , title2 , desc , buttonText , imageurl , linkname })=>(
 <Flex flexWrap="wrap" justifyContent="center" alignItems="center" m="10">
